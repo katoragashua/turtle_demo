@@ -2,9 +2,9 @@ import React from "react";
 import Hero from "../components/home/Hero";
 import satisfied from "../assets/images/satisfied.jpg";
 import Btn from "../components/Btn";
-import OurMethods from "../components/Home/OurMethods";
-import Careers from "../components/Home/Careers";
-import OurWork from "../components/Home/OurWork";
+import OurMethods from "../components/home/OurMethods";
+import Careers from "../components/home/Careers";
+import OurWork from "../components/home/OurWork";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
