@@ -121,9 +121,18 @@ h5 {
   animation: zoom 7s linear infinite;
 }
 
-.what-we-do p {
-  filter: drop-shadow(5px 5px 10px black);
-  
+.overlay-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=050505&c2=f6f4f8&gt=r&gd=dcc
+*/
+/* background: #050505; */
+background: radial-gradient(at center, #050505, #f6f4f82e);
 }
 
 @keyframes zoom {
